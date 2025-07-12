@@ -1,6 +1,12 @@
 HEAD
 # kaptan-ai-demo-page
 
+This is a simple demo website built to showcase my experience with Next.js, TypeScript, and JavaScript.
+
+Many of my more advanced projects are private due to client confidentiality or tied to my university organization.
+
+The lead submission form on this site is designed to connect to a Make.com automation workflow via webhook. For security reasons and to avoid exposing credentials or using up API tokens unnecessarily, that functionality is currently disabled in this public version.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
